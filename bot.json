@@ -1,0 +1,6 @@
+{
+  "name" : "PBot",
+  "description" : "Generic bot description",
+  "type" : "USER",
+  "intentTrainer" : "Sakura"
+}
