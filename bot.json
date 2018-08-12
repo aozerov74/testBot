@@ -1,6 +1,6 @@
 {
-  "name" : "PBot",
-  "description" : "Generic bot description",
+  "name" : "GitHub Test Bot",
+  "description" : "GitHub Bot description",
   "type" : "USER",
   "intentTrainer" : "Sakura"
 }
